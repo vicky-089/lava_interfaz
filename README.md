@@ -1,7 +1,6 @@
 import flet as ft
 import asyncio
 
-
 def main(page: ft.Page):
     page.horizontal_alignment = "center"
     page.vertical_alignment = "center"
